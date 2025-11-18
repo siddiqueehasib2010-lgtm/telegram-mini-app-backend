@@ -1,0 +1,12 @@
+{
+"name": "telegram-mini-app-backend",
+"version": "1.0.0",
+"description": "Backend logic for a Telegram Mini App hosted on Render's free tier.",
+"main": "index.js",
+"scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"node-telegram-bot-api": "^0.61.0"
+}
+}
